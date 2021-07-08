@@ -1,0 +1,159 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital@1&amp;display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu&amp;display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik&amp;display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&amp;display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@700&amp;display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&amp;display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins&amp;display=swap");
+body {
+height: 97.5vh;
+background: linear-gradient(to right top, gold, #03a9f4);
+}
+
+* {
+box-sizing: border-box;
+}
+.glass {
+padding-bottom: 378px;
+border-radius: 50px;
+width: 327px;
+justify-content: center;
+margin-top: 48px;
+/* height: 82vh; */
+background-image: url('trend.jpg');
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+/*background: linear-gradient(to right top, #bdcec0, #d3dee1);
+/* margin-inline-start: 468px; */
+}
+.ya {
+text-align: center;
+justify-content: center;
+display: flex;
+flex-direction: row;
+}
+.cinput {
+/* border-right: transparent; */
+font-family: "Ubuntu", sans-serif;
+font-weight: bold;
+border-radius: 1px;
+outline: none;
+width: 75%;
+height: 48px;
+margin-top: -6px;
+font-size: 147%;
+border: none;
+}
+              
+.cinput:hover {
+border: 100px;
+transform-origin: center;
+transform-origin: center;
+/* transition: 0.2s; */
+/* transition-delay: 0.1s; */
+border: 3px solid gold;
+border-top: transparent;
+border-left: transparent;
+border-right: transparent;
+}
+              
+.AC {
+padding: 18px;
+margin: 257px -77px -254px -416px;
+/* width: 110px; */
+}
+.modulo {
+padding: 18px;
+margin: 161px -129px -217px 85px;
+}
+.division {
+padding: 18px;
+margin: 165px -127px -220px 137px;
+}
+.mul {
+padding: 18px;
+margin: 160px -88px -217px 134px;
+}
+.seven {
+padding: 18px;
+margin: 318px -77px -240px -416px;
+}
+.eight {
+padding: 18px;
+margin: 161px -131px -217px 85px;
+}
+.nine {
+padding: 18px;
+margin: 165px -127px -220px 137px;
+}
+.sub {
+padding: 18px;
+margin: 160px -89px -217px 137px;
+}
+
+.four {
+padding: 18px;
+margin: 379px -64px -233px -407px;
+}
+.five {
+padding: 18px;
+margin: 161px -129px -226px 71px;
+}
+.six {
+padding: 18px;
+margin: 165px -124px -220px 137px;
+}
+.add {
+padding: 18px;
+margin: 160px -83px -218px 134px;
+}
+              
+.one {
+padding: 18px;
+margin: 441px -62px -233px -409px;
+}
+.two {
+padding: 18px;
+margin: 161px -128px -217px 72px;
+}
+.three {
+padding: 18px;
+margin: 165px -123px -220px 137px;
+}
+.cal {
+padding: 18px;
+margin: 160px -86px -217px 132px;
+}
+              
+.special {
+border-radius: 15px;
+border: none;
+height: 47px;
+width: 57px;
+background-color: #3a92d8;
+color: white;
+}
+              
+.num {
+color: white;
+border-radius: 15px;
+border: none;
+background-color: #ff7907;
+height: 46px;
+width: 57px;
+}
+.num:hover {
+border: 2px solid black;
+}
+.special:hover {
+border: 2px solid black;
+}
+              
+.para{
+font-size: 36px;
+font-family: "Ubuntu", sans-serif;
+font-weight: bold;
+font-weight: bold;
+}
+  
